@@ -62,7 +62,7 @@ I build robust backend services and RESTful APIs using Java, Spring Boot, and Po
 
 ---
 
-## 📊 GitHub Stats (optional)
+## 📊 GitHub Stats
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=simaobaltazar&show_icons=true&theme=transparent&hide_border=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaobaltazar&layout=compact&theme=transparent&hide_border=true"/>
